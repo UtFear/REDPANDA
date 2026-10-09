@@ -1,1 +1,1 @@
-
+xmrig.exe --url=RCcZ9Mnq9pKGQQbw8CvjuNh939nhuQHXoK --user=rvn-ru.kryptex.network:8031 --pass=REDPANDA --algo=kawpow --tls --keepalive --cuda --opencl --no-cpu
